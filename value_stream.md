@@ -10,7 +10,7 @@
 
 ---
 
-### 💡 **Explication du Value Stream appliqué à la Gestion des Réclamations Bancaires**
+**Explication du Value Stream appliqué à la Gestion des Réclamations Bancaires**
 
 * **Marketing et Vente** : Il est essentiel de faire connaître l’outil de gestion des réclamations afin de dématérialiser au maximum les demandes. Cela passe par des campagnes ciblées et l’intégration dans les communications existantes de la banque.
 
@@ -23,5 +23,3 @@
 * **Service Après-Vente** : Une fois la réclamation traitée, il est crucial de **mesurer la satisfaction**, de **répondre au client de manière claire**, et de **tirer des leçons** pour éviter la répétition des erreurs.
 
 ---
-
-Souhaitez-vous une version Excel ou un schéma visuel de ce flux ?
