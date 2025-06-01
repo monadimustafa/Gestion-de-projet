@@ -1,7 +1,3 @@
-Voici une **adaptation complète** de votre tableau de gestion de projet, cette fois dédiée à un **projet de gestion des réclamations dans une banque**. Elle suit le même format que l'exemple que vous avez donné.
-
----
-
 ### 🗂️ **Projet : Amélioration du Système de Gestion des Réclamations Bancaires**
 
 | **ID**         | **Description**                                                                 | **Avancement** | **Porteur**                              | **Statut** | **Jalon** | **Commentaire**                                         |
